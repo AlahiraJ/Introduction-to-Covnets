@@ -14,3 +14,9 @@ The basic pipeline for CNN is as follows:
 - The vector is passed to a fully connected artificial neural network.
 - The fully connected layer will provide a probability for each class that we’re after.
 - Repeat the process to get well defined trained weights and feature detectors.
+
+# Objective 
+The objectives of this project include:
+- Learn and understand the standard workflow for computer vision tasks
+- Understand how to work with image data
+- Learn basic image processing techniques
